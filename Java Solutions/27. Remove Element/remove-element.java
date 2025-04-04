@@ -1,3 +1,5 @@
+// Louis | Completed in 51:54
+
 class Solution {
     public int removeElement(int[] nums, int val) {
         // The goal of this exercise is to return the variable k and resort the given array in a specific way. 

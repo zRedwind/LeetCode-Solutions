@@ -10,4 +10,5 @@ A GitHub repository to track my LeetCode solutions
 
 ### Solved MySQL Problems
 * 584 Find Customer Referee
+* 595 Big Countries
 * 1757 Recyclable and Low Fat Products

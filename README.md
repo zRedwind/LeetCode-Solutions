@@ -6,6 +6,7 @@ A GitHub repository to track my LeetCode solutions
 ### Solved Java Problems
 * 1 Two Sum
 * 2 Add Two Numbers
+* 9 Palindrom Number
 * 27 Remove Element
 
 ### Solved MySQL Problems

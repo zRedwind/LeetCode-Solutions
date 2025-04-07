@@ -13,5 +13,6 @@ A GitHub repository to track my LeetCode solutions
 * 584 Find Customer Referee
 * 595 Big Countries
 * 1148 Article Views I
+* 1378 Replace Employee ID With The Unique Identifier
 * 1683 Invalid Tweets
 * 1757 Recyclable and Low Fat Products

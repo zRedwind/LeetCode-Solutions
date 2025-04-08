@@ -7,6 +7,7 @@ A GitHub repository to track my LeetCode solutions
 * 1 Two Sum
 * 2 Add Two Numbers
 * 9 Palindrom Number
+* 13 Roman to Integer
 * 27 Remove Element
 
 ### Solved MySQL Problems
